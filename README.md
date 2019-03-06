@@ -1,0 +1,4 @@
+# ayrik_sistemler_icinileri_olasilik
+185112040-Muhammed Ergun
+Kocaeli Üniversitesi
+Bilgisayar Mühendisliği-Yüksek Lisans
