@@ -1,4 +1,4 @@
-# ayrik_sistemler_icinileri_olasilik
+# ayrik_sistemler_icin_ileri_olasilik
 185112040-Muhammed Ergun
 Kocaeli Üniversitesi
 Bilgisayar Mühendisliği-Yüksek Lisans
