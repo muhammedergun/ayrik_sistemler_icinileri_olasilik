@@ -6,13 +6,13 @@
 
 import random
 lst=[]
-for i in range(1,25):
+for i in range(1,25):           #listeye 1,2,...,24 elemanlarının eklenmesi
     lst.append(i)
 print(lst)
 
 liste=[]
 
-for i in range(0,13):     
+for i in range(0,13):           #listeden 13 tane farklı elemanın rastgele seçilmesi
     for k in range(0,13):
         a=random.choice(lst)
         if(a  not in liste):
@@ -20,9 +20,9 @@ for i in range(0,13):
             break
         else:
             continue           
-print("secilen sayilar = %s"% liste)
+print("secilen sayilar = %s"% liste)    #seçilen elemanların yazdırılması
                 
-for i in range(0,13):
+for i in range(0,13):           #seçilen 13 tane elemanın içinden toplamları 25 olan sayı ikililerin bulunması ve yazdırılması
     for x in range(0,13):
         if(liste[i]+liste[x]==25):
             print("%s + % s = 25 " %(liste[i],liste[x]))
